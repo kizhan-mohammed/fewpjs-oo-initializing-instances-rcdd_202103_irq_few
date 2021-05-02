@@ -28,5 +28,5 @@ class Dinner {
     this._dessert = dessert;
   }
 }
-let Dinner1 = new Dinner("shfta", "chikensoap", "idk", "paqlawa");
+let Dinner1 = new Dinner("shfta", "chikensoap", "idk", "chees cake");
  Dinner1;
