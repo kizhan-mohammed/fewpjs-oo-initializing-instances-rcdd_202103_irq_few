@@ -21,7 +21,7 @@ let Lunch1 = new Lunch("shfta", "chikensoap", "water");
  Lunch1;
 
 class Dinner {
-    constructor(salad, soup, entree, _dessert) {
+    constructor(salad, soup, entree, dessert) {
     this.salad = salad;
     this.soup = soup;
     this.entree = entree;
